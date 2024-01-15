@@ -49,7 +49,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Damien-Generet/Damien-Generet/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Damien-Generet/count.svg?"  />
+</div>
 
 ###
 
